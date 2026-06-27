@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋 My name is Swarnim Nainwal
+
+## Data Scientist
+
+I am a computer science enthusiast and I love to learn new technologies.
+
+- 🌎 I'm based in India
+- 📧 Contact me: nainwalswarnim2005@gmail.com
+
+## Socials
+
+[LinkedIn]([link](https://www.linkedin.com/in/nainwal-swarnim/))
+[GitHub]([your-link](https://github.com/Swarnim05/))
 
 <!--
 **Swarnim05/Swarnim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
