@@ -10,6 +10,7 @@ I am a computer science enthusiast and I love to learn new technologies.
 ## Socials
 
 [LinkedIn](https://www.linkedin.com/in/nainwal-swarnim/)
+
 [GitHub](https://github.com/Swarnim05/)
 
 <!--
