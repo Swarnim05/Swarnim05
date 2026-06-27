@@ -9,8 +9,8 @@ I am a computer science enthusiast and I love to learn new technologies.
 
 ## Socials
 
-[LinkedIn]([link](https://www.linkedin.com/in/nainwal-swarnim/))
-[GitHub]([your-link](https://github.com/Swarnim05/))
+[LinkedIn](https://www.linkedin.com/in/nainwal-swarnim/)
+[GitHub](https://github.com/Swarnim05/)
 
 <!--
 **Swarnim05/Swarnim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
