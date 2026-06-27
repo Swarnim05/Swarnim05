@@ -7,6 +7,10 @@ I am a computer science enthusiast and I love to learn new technologies.
 - 🌎 I'm based in India
 - 📧 Contact me: nainwalswarnim2005@gmail.com
 
+## Skills
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql" />
+
 ## Socials
 
 [LinkedIn](https://www.linkedin.com/in/nainwal-swarnim/)
